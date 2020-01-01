@@ -1,0 +1,17 @@
+.card {
+  align-items: center;
+  justify-content: center;
+  border-color: black !important;
+  cursor: pointer;
+  padding: 1em 0.5em 1em 0.5em;
+  margin: 0.2em;
+  object-fit: contain;
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+}
+
+.col {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 !important;
+}
